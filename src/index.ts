@@ -1,4 +1,5 @@
 // Basic Types
+
 let id: number = 5;
 let company: string = 'Media'
 let isPublished: boolean = true
